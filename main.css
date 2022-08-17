@@ -1,37 +1,3 @@
-/* Background colors for containers */
-
-/*
-.profile-card {
-  background-color: hsla(60, 100%, 50%, .4);
-}
-
-.head {
-  background-color: hsla(120, 100%, 50%, .4);
-}
-
-.content {
-  background-color: hsla(120, 100%, 50%, .4);
-}
-
-.profile-image {
-  background-color: hsla(300, 100%, 50%, .4);
-}
-
-.name-headline {
-  background-color: hsla(300, 100%, 50%, .4);
-}
-
-.about {
-  background-color: hsla(300, 100%, 50%, .4);
-}
-
-.links {
-  background-color: hsla(300, 100%, 50%, .4);
-}
-
-÷/
-
-/* CSS reset */
 
 * {
     margin: 0;
@@ -107,13 +73,5 @@
     box-shadow: hsla(0, 0%, 0%, 0.8) 10px 10px 80px;
   }
   
-  /* Contact links */
   
-  ul {
-    list-style-type: none;
-  }
-  
-  li {
-    display: inline;
-  }
   
